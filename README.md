@@ -43,6 +43,6 @@ Users should be able to:
 ## Author
 
 <!-- - Website - [Add your name here](https://www.your-site.com) -->
-- Frontend Mentor - [@SAMI-GD](https://www.frontendmentor.io/profile/SAMI-GD)
+- Frontend Mentor - [@samilaug](https://www.frontendmentor.io/profile/samilaug)
 - Linkedin - [samila-gunarathna](https://www.linkedin.com/in/samila-gunarathna/)
 <!-- - Twitter - [@yourusername](https://www.twitter.com/yourusername) -->
